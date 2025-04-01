@@ -1,4 +1,4 @@
-# Todo App
+# Aviasales App
 ![Wiew](public/123.jpg)
 ## Демо
 
