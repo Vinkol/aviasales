@@ -2,5 +2,5 @@
 ![Wiew](public/123.jpg)
 ## Демо
 
-🔗 [Посмотреть проект на Vercel](aviasales-liard-phi.vercel.app)
+🔗 [Посмотреть проект на Vercel](https://aviasales-liard-phi.vercel.app/)
 
