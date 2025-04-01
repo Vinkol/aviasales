@@ -1,0 +1,30 @@
+.app
+  margin-top: 50px
+  width: 100%
+  display: flex
+  flex-flow: column
+  justify-content: center
+  align-items: flex-start
+
+  &__tickets 
+    width: 100%
+    position: relative
+  
+  .filter 
+    grid-area: filter
+    margin-right: 20px
+  
+  .tabs 
+    grid-area: tabs
+    margin-bottom: 20px
+  
+
+  .ticket-list 
+    grid-area: tickets
+  
+@media (min-width: 768px) 
+  .app 
+    flex-flow: row;
+
+    &__tickets 
+      width: auto;
